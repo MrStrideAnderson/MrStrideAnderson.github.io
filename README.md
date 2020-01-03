@@ -1,2 +1,2 @@
 ﻿# MrStrideAnderson.github.io
-personal site
+personal site 
