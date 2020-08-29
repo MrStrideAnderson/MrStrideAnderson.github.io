@@ -1,2 +1,3 @@
 ﻿# MrStrideAnderson.github.io
-personal site 
+personal site
+20200828
